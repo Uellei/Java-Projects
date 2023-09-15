@@ -1,4 +1,4 @@
-package Collections.List.CarrinhoCompra;
+package Collections.List.OperacoesBasicas;
 
 public class Item {
     private String nome;

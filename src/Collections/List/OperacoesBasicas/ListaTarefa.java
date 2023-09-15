@@ -1,4 +1,4 @@
-package Collections.List.ListaTarefa;
+package Collections.List.OperacoesBasicas;
 
 import java.util.ArrayList;
 import java.util.List;
